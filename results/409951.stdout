@@ -1,0 +1,10 @@
+Running 1M
+Tp: 0.276009s
+Running 10M
+Tp: 0.228155s
+Running 100M
+Tp: 0.348962s
+Running 1B
+Tp: 1.09685s
+Running 10B
+Tp: 1.4725s
